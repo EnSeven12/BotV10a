@@ -1,0 +1,52 @@
+{
+     "prefix": "#",
+     "namalu" : "Seven",
+     "nomerlu": "6288807421832",
+     "namabot": "SevenBotz",
+     "nomerbot": "62823912397905",
+     "gender" : "Male",
+     "copyright" : "TheSeven",
+     "Shopee" : "-",
+     "Gopay" : "-",
+     "Dana" : "-",
+     "Ovo" : "-",
+     "namaDocument": "Seven Project",
+     "joinGcExtream": true,
+     "Anticall": true,
+     "multi": true,
+     "onepref" : false,
+     "publik": true,
+     "forwarding": false,
+     "antitroli" : false,
+     "autovn" : false,
+     "autosticker" : false,
+     "autorespon" : false,
+     "autotyping" : false,
+     "autoread" : true,
+     "katalogMenu": false,
+     "troliMenu": false,
+     "lokasiMenu": true,
+     "documentMenu": false,
+     "autoblockcmd" : true,
+     "autoWelcome": false,
+     "welcomeType1": false,
+     "welcomeType2": false,
+     "welcomeType3": true,
+     "chatBot" : false,
+     "teksChat" : "Gada menu",
+     "totalForward" : 1000000,
+     "explain": false,
+     "gamewaktu": 60,
+	 "limitCount": 30,
+	 "gcount": {
+		"prem": 30,
+		"user": 20
+},
+    
+     "zeks": "LOFXt2RgEj7RUUH12YfgWHGYwaE", 
+     "zenzkey": "officialdittaz",
+     "xteam": "170342e43e147afa"
+}
+
+   
+   
