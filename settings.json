@@ -16,7 +16,7 @@
      "multi": true,
      "onepref" : false,
      "publik": true,
-     "forwarding": false,
+     "forwarding": true,
      "antitroli" : false,
      "autovn" : false,
      "autosticker" : false,
